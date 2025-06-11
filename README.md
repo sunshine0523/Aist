@@ -3,6 +3,8 @@
 <h2>全新的Aist测试版本已经发布！可在Release中下载！</h2>
 注意！Aist目前功能还没有完全发布，可能与项目介绍并不符合，后续会更新状态
 
+[Aist使用教程-Bilibili](https://www.bilibili.com/video/BV1pxMEzoEFs)
+
 <a href="./README_en.md">Readme in English</a>
 
 ## 🖼️截图
